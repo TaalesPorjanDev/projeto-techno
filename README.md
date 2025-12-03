@@ -44,7 +44,7 @@ Este projeto representou meu **"batismo de fogo"** com o Vue.js! Sendo a primeir
 
 O projeto está disponível e rodando online para visualização:
 
-🔗 **[Acessar Projeto E-commerce]([https://taalesporjandev.github.io/projeto-techno/])**
+🔗 **[Acessar Projeto E-commerce](https://taalesporjandev.github.io/projeto-techno/)**
 
 ---
 
